@@ -3,64 +3,57 @@ from discord.ext import commands
 
 
 server_rules_text = '''1)** __Nickname__**
-> • Your Discord nickname must represent your clash of clans account name(s)
+> • Your Discord nickname must represent your clash of clans in-game account name(s).
 
 2)** __No Toxicity__**
-> • This includes and is not limited to, homophobia, racism, sexism, and intentionally being harmful to others
+> • This includes and is not limited to, homophobia, racism, sexism, and intentionally being harmful to others.
 
 3)** __No BST__**
-> • No buying, selling, or trading of accounts
+> • No buying, selling, or trading of accounts.
 
 4)** __No Drama__**
-> • No starting or escalating drama
-> • If you have a problem, deal with it privately
-> • If you need help dealing with anything related to this, bring it to leadership
+> • No starting or escalating drama.
+> • If you have a problem, deal with it privately.
+> • If you need help dealing with anything related to this, bring it to leadership.
 
 5) **__No Political Conversations__**
-> • Everyone is entitled to their political opinions, but clash of clans is not the place to talk about them
+> • Everyone is entitled to their political opinions, but clash of clans is not the place to talk about them.
 
 6)** __CWL__**
-> • Participants must register via the form sent at the end of each month
-> • Players must be understanding that they may be relocated for CWL
-> • This allows players to be in the best league based on their skill level
-> • Heroes must be up for CWL, no exceptions
-> • Participants will vote on who earns bonuses for each clan
+> • Participants must register via the form sent at the end of each month.
+> • Players must be understanding that they may be relocated for CWL.
+> • This allows players to be in the best league based on their skill level.
+> • Heroes must be up for CWL, no exceptions.
+> • Participants will vote on who earns bonuses for each clan.
 
 
-<:DZ:852634339844816966> **DANGER ZONE**
+<:DZ:966110287835037736> **DANGER ZONE**
 > • Main clan in the Phantom family
-> • TH14 only
+> • TH13+ (TH14, or near max TH13)
 > • Currently ranked Champion League I
 > • Competitive and helpful environment
 > • Read <#819709187613392914> for more info
 > • FC’s will be required upon entry for new applicants
 
-<:DL:858033764453580820> **DOWNFALL LEGEND**
-> • TH13+ (TH14 or near max TH13)
-> • Currently ranked Champion League II
-> • Competitive and helpful environment
-> • Read <#819709187822583808> for more info
-> • FC’s will be required upon entry for new applicants
-
-<:GC:852634339954917466> **GAME CHANGERS**
-> • TH12+ only
-> • Currently ranked Masters I
-> • Calm and friendly environment
-> • Read <#819709187613392915> for more info
-> • FC’s will be required upon entry for new applicants
+<:GS:966110287646306304> **★GEAR SAVANA★**
+> • Secondary clan in the Phantom family
+> • TH11+ (No rushed accounts!)
+> • Currently ranked in Crystal League
+> • Relaxed but helpful environment
+> • Read <#819709187613392914> for more info
+> • FC’s may be required upon entry for new applicants
 
 ⬆️ **SCROLL UP!** ⬆️
 '''
 
 # =============================================================================================================
 
-clan_rules_text = '''**__Danger Zone Requirements:__**
+clan_rules_text = '''<:DZ:966110287835037736>  **__DANGER ZONE  Requirements:__**
 > • TH14 - BK75, AQ75, GW50, RC25
 > • TH13 - BK65, AQ65, GW45, RC15
 > • Base at least 90% max from previous Town Hall
 
-**__Downfall Legend Requirements:__**
-> • TH14 - BK70, AQ70, GW45, RC20
+<:GS:966110287646306304>  **__★GEAR SAVANA★  Requirements:__**
 > • TH13 - BK65, AQ65, GW40, RC10
 > • TH12 - BK60, AQ60, GW35
 > • TH11 - BK35, AQ35, GW10
